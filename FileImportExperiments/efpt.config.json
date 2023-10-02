@@ -1,0 +1,207 @@
+﻿{
+   "CodeGenerationMode": 3,
+   "ContextClassName": "ApplicationDbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "FileImportExperiments",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[CDC].[ClerkNumberTracking]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[CDC].[CNGapList]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[CDC].[CNGapResults]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BATCH]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BATCH_STATUS]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[BOOK_PAGE_REFERENCE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[COUNTY]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[COUNTY_ARCHIVE_PATH]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[COUNTY_FTP_PATH]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DATA_CENTER]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DATE_OF_FILE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DOCUMENT_DESCRIPTION]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[DOCUMENT_DESCRIPTION_RCVD]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ERROR_DESCRIPTION]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[IMAGE_BATCH]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[IMAGE_BATCH_DOCUMENT_REFERENCE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[IMAGE_BATCH_FTP_UPLOAD]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[NON_WEEKEND_HOLIDAY]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ON_DEMAND_REPORT]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[ON_DEMAND_REPORT_PATH]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PERFORMANCE_TARGET]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[POSTING_ATTEMPT]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[POSTING_ATTEMPT_STATUS]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[POSTING_RESULT]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[POSTING_RESULT_ERROR_DETAIL]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[PROCESSING_UNIT]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[SETTING]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[TEMP_DELETE_TASKS]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[WORK_DAY]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[YEAR_NUMBER_REFERENCE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[DCW].[EVENT]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[DCW].[EVENT_TYPE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[DCW].[GET_NEW_WORK_LOCK]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[DCW].[TASK]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[DCW].[TASK_DETAIL]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[DCW].[TASK_DETAIL_BLOB]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[DCW].[TASK_TYPE]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[DCW].[UNCHAINED_LEGAL_DESCRIPTION]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[DCW].[USER_EVENT]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[DCW].[USER_INFO]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[DCW].[WORKFLOW_COUNTY]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[DCW].[WORKFLOW_DATA_CENTER]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "desktop-91fgoh1.REAL_TIME_POSTING.dbo",
+   "UncountableWords": null,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false
+}
